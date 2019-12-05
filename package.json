@@ -1,0 +1,19 @@
+{
+  "name": "image-downloader",
+  "version": "1.0.0",
+  "description": "This is a image downloading script written in pure NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohdImran001/image-downloader.git"
+  },
+  "author": "Mohd Imran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohdImran001/image-downloader/issues"
+  },
+  "homepage": "https://github.com/MohdImran001/image-downloader#readme"
+}
